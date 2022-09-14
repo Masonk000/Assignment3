@@ -62,8 +62,13 @@ a:hover{
 .tagline {
     color:#466060;
 }
+h1{
+    font-size: 75px;
+}
 h2{
+    font-size: 50px;
     margin: 0;
+    text-shadow: 0 0 3px #466060, 0 0 5px #FCD0A1;
 }
 h5{
     margin: 0;
